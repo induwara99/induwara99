@@ -9,11 +9,15 @@
 
 - 🌱 I’m currently learning **C#, JS , Java , Python**
 
-
 <h1 align="left">Connect with me:</h1>
+
 <p align="left">
-<a href="https://linkedin.com/in/induwara03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="induwara99" height="30" width="40" /></a>
-<a href="https://instagram.com/induxwaraaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="induwara99" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/induwara03" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="induwara99" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/induxwaraaa" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="induwara99" height="30" width="40" />
+  </a>
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
@@ -113,6 +117,26 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/>
 </a>
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=induwara99&show_icons=true&locale=en&layout=compact" alt="induwara99" /></p>
+
+
+## By the way here are some of my statistics 🚀
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=induwara99&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=induwara99&theme=github_dark)
+
+![RashminInduwara's github stats](https://github-readme-stats.vercel.app/api?username=induwara99&show_icons=true&theme=github_dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=induwara99&theme=tokyonight_duo" alt="mystreak"/>
+
+
+[![induwara99's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=induwara99&theme=react-dark)](AkuraDiary)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+## Reach me 📫:
+[![Gmail Badge](https://img.shields.io/badge/-induwara0399@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:rasikaekanayaka0000@gmail.com)](mailto:rasikaekanayaka0000@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-rasiya_official-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/induxwaraaa/) 
+
+<h5 align="center">Made by Induwara </h5>
 
