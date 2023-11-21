@@ -123,9 +123,6 @@
 ![RashminInduwara's github stats](https://github-readme-stats.vercel.app/api?username=induwara99&show_icons=true&theme=github_dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=induwara99&theme=tokyonight_duo" alt="mystreak"/>
 
-
-[![induwara99's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=induwara99&theme=react-dark)](AkuraDiary)
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
