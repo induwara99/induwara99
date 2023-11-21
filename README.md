@@ -85,8 +85,9 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Microsoft_SQL_Server_Logo.svg" alt="Microsoft SQL Server" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/217828/database.svg" alt="Microsoft SQL Server" width="40" height="40"/>
 </a>
+
 
 <h2 align="left">Backend as a Service(BaaS):</h2>
 
