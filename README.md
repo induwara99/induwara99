@@ -1,8 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rashmin Induwara</h1>
+<h3 align="center">Software Engineer @ Central Finance Co PLC & Bizsmart Technology</h3>
 
-**induwara99/induwara99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=induwara99&label=Profile%20views&color=0e75b6&style=flat" alt="induwara99" /> </p>
 
-Here are some ideas to get you started:
+- 📫 How to reach me **induwara0399@gmail.com**
+
+- 🔭 I’m a Co-Founder at **Crystal Software Development**
+
+- 🌱 I’m currently learning **C#, JS , Java , .NET**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
