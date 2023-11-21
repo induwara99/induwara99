@@ -65,8 +65,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </a>
 <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
-  <img src="path/to/your/dotnet/icon.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
 </a>
+
 
 <h2 align="left">Database:</h2>
 
@@ -80,8 +81,9 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="path/to/your/mssql/icon.svg" alt="Microsoft SQL Server" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="Microsoft SQL Server" width="40" height="40"/>
 </a>
+
 
 
 <h2 align="left">Backend as a Service(BaaS):</h2>
