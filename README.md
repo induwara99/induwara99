@@ -1,134 +1,92 @@
 <h1 align="center">Hi 👋, I'm Rashmin Induwara</h1>
-<h3 align="center">Software Engineer @ Central Finance Co PLC & Bizsmart Technology</h3>
+<h3 align="center">Full-Stack Software Engineer · C# / .NET · ASP.NET · Oracle PL/SQL · React</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=induwara99&label=Profile%20views&color=0e75b6&style=flat" alt="induwara99" /> </p>
-
-- 📫 How to reach me **induwara0399@gmail.com**
-
-- 🔭 I’m a Co-Founder at **Crystal Software Development**
-
-- 🌱 I’m currently learning **C#, JS , Java , Python**
-
-<h1 align="left">Connect with me:</h1>
-
-<p align="left">
-  <a href="https://linkedin.com/in/induwara03" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="induwara99" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/induxwaraaa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="induwara99" height="30" width="40" />
-  </a>
+<p align="center">
+  <a href="https://linkedin.com/in/induwara03"><img src="https://img.shields.io/badge/LinkedIn-induwara03-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:induwara0399@gmail.com"><img src="https://img.shields.io/badge/Email-induwara0399%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=induwara99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-<h1 align="left">Languages and Tools:</h1>
-<p align="left"> 
+---
 
-<h2 align="left">Mobile App Development:</h2>
+## 🚀 About Me
 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+- 💼 Software Engineer at **Central Finance PLC**, building enterprise applications for financial services — compliance workflows, document management, and secure identity verification
+- 🛠️ **5 years** of full-stack experience across C#, ASP.NET/.NET, Oracle PL/SQL, SQL Server, and REST API integration
+- 🔐 Specialised in **secure workflow design** — role-based access, maker-checker approvals, audit trails, and token-based API authentication
+- 🚗 Recent work: DRP NIC online identity-verification integration, a barcode/QR-tracked digital document vault, and company-wide vehicle & asset management platforms
+- 🌱 Co-Founder at **Crystal Software Development**
+- 📫 Reach me at **induwara0399@gmail.com**
 
-<h2 align="left">Programming Languages:</h2>
+---
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a>
+## 🧰 Tech Stack
 
+**Languages**
 
-<h2 align="left">Front-end Languages:</h2>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL%20%2F%20PL%2FSQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-</a>
+**Backend**
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20%2F%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=nuget&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<h2 align="left">Backend Development:</h2>
+**Frontend**
 
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a>
-<a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
-</a>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+**Databases**
 
-<h2 align="left">Database:</h2>
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-</a>
+**Enterprise & Tools**
 
-<h2 align="left">Backend as a Service(BaaS):</h2>
+![FileNet](https://img.shields.io/badge/IBM%20FileNet-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
+---
 
-<h2 align="left">Software:</h2>
+## 💡 Featured Work
 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-</a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-</a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/>
-</a>
+| Project | Description | Stack |
+|---|---|---|
+| **DRP NIC Verification × CRMN** | Secure API-driven identity verification — consent capture, dynamic credentials, verification history, and controlled, auditable image access | C# · REST · Oracle |
+| **CR Book Vault** | Digital vault for vehicle Certificate of Registration documents with barcode/QR movement tracking and maker-checker approvals | ASP.NET · Oracle |
+| **Vehicle & Asset Management** | Company-wide allocation, handover, approval, audit, and reporting workflows | ASP.NET · Oracle · jQuery |
+| **[E-Tutor](https://github.com/induwara99/Research_Project-essay-evaluationExaml-)** | NLP-based essay evaluation with focus detection, note summarisation, and mind-map generation — final-year research project | NLP · MERN |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=induwara99&show_icons=true&locale=en&layout=compact" alt="induwara99" /></p>
+*Most of my professional work lives in private enterprise repositories — happy to discuss it in detail.*
 
+---
 
-## By the way here are some of my statistics 🚀
+## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=induwara99&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=induwara99&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=induwara99&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=induwara99&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="165"/>
+</p>
 
-![RashminInduwara's github stats](https://github-readme-stats.vercel.app/api?username=induwara99&show_icons=true&theme=github_dark)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=induwara99&theme=tokyonight_duo" alt="mystreak"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=induwara99&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
+</p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
-
-## Reach me 📫:
-[![Gmail Badge](https://img.shields.io/badge/-induwara0399@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:rasikaekanayaka0000@gmail.com)](mailto:rasikaekanayaka0000@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-induxwaraaa-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/induxwaraaa/) 
-
-<h5 align="center">Made by Induwara </h5>
-
+<p align="center"><i>Thanks for stopping by — let's build something reliable.</i></p>
