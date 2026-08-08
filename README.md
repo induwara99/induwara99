@@ -2,6 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer · C# / .NET · ASP.NET · Oracle PL/SQL · React</h3>
 
 <p align="center">
+  <a href="https://www.rashroot.com/"><img src="https://img.shields.io/badge/Portfolio-rashroot.com-000000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/induwara03"><img src="https://img.shields.io/badge/LinkedIn-induwara03-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:induwara0399@gmail.com"><img src="https://img.shields.io/badge/Email-induwara0399%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=induwara99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -16,6 +17,7 @@
 - 🔐 Specialised in **secure workflow design** — role-based access, maker-checker approvals, audit trails, and token-based API authentication
 - 🚗 Recent work: DRP NIC online identity-verification integration, a barcode/QR-tracked digital document vault, and company-wide vehicle & asset management platforms
 - 🌱 Co-Founder at **Crystal Software Development**
+- 🌐 Portfolio: **[rashroot.com](https://www.rashroot.com/)**
 - 📫 Reach me at **induwara0399@gmail.com**
 
 ---
@@ -72,7 +74,7 @@
 | **Vehicle & Asset Management** | Company-wide allocation, handover, approval, audit, and reporting workflows | ASP.NET · Oracle · jQuery |
 | **[E-Tutor](https://github.com/induwara99/Research_Project-essay-evaluationExaml-)** | NLP-based essay evaluation with focus detection, note summarisation, and mind-map generation — final-year research project | NLP · MERN |
 
-*Most of my professional work lives in private enterprise repositories — happy to discuss it in detail.*
+*Most of my professional work lives in private enterprise repositories — happy to discuss it in detail. For more, visit my portfolio at **[rashroot.com](https://www.rashroot.com/)**.*
 
 ---
 
@@ -89,4 +91,4 @@
 
 ---
 
-<p align="center"><i>Thanks for stopping by — let's build something reliable.</i></p>
+<p align="center"><i>Thanks for stopping by — let's build something reliable. 🌐 <a href="https://www.rashroot.com/">rashroot.com</a></i></p>
