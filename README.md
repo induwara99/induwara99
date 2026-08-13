@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 
-- 💼 Software Engineer at **Central Finance PLC**, building enterprise applications for financial services — compliance workflows, document management, and secure identity verification
+- 💼 Software Engineer at **Central Finance PLC**, building enterprise applications for financial services - compliance workflows, document management, and secure identity verification
 - 🛠️ **5 years** of full-stack experience across C#, ASP.NET/.NET, Oracle PL/SQL, SQL Server, and REST API integration
-- 🔐 Specialised in **secure workflow design** — role-based access, maker-checker approvals, audit trails, and token-based API authentication
+- 🔐 Specialised in **secure workflow design** - role-based access, maker-checker approvals, audit trails, and token-based API authentication
 - 🚗 Recent work: DRP NIC online identity-verification integration, a barcode/QR-tracked digital document vault, and company-wide vehicle & asset management platforms
 - 🌱 Co-Founder at **Crystal Software Development**
 - 🌐 Portfolio: **[rashroot.com](https://www.rashroot.com/)**
@@ -69,12 +69,12 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **DRP NIC Verification × CRMN** | Secure API-driven identity verification — consent capture, dynamic credentials, verification history, and controlled, auditable image access | C# · REST · Oracle |
+| **DRP NIC Verification × CRMN** | Secure API-driven identity verification - consent capture, dynamic credentials, verification history, and controlled, auditable image access | C# · REST · Oracle |
 | **CR Book Vault** | Digital vault for vehicle Certificate of Registration documents with barcode/QR movement tracking and maker-checker approvals | ASP.NET · Oracle |
 | **Vehicle & Asset Management** | Company-wide allocation, handover, approval, audit, and reporting workflows | ASP.NET · Oracle · jQuery |
-| **[E-Tutor](https://github.com/induwara99/Research_Project-essay-evaluationExaml-)** | NLP-based essay evaluation with focus detection, note summarisation, and mind-map generation — final-year research project | NLP · MERN |
+| **[E-Tutor](https://github.com/induwara99/Research_Project-essay-evaluationExaml-)** | NLP-based essay evaluation with focus detection, note summarisation, and mind-map generation - final-year research project | NLP · MERN |
 
-*Most of my professional work lives in private enterprise repositories — happy to discuss it in detail. For more, visit my portfolio at **[rashroot.com](https://www.rashroot.com/)**.*
+*Most of my professional work lives in private enterprise repositories - happy to discuss it in detail. For more, visit my portfolio at **[rashroot.com](https://www.rashroot.com/)**.*
 
 ---
 
@@ -91,4 +91,4 @@
 
 ---
 
-<p align="center"><i>Thanks for stopping by — let's build something reliable. 🌐 <a href="https://www.rashroot.com/">rashroot.com</a></i></p>
+<p align="center"><i>Thanks for stopping by - let's build something reliable. 🌐 <a href="https://www.rashroot.com/">rashroot.com</a></i></p>
